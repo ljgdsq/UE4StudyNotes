@@ -1,0 +1,37 @@
+﻿## 1. sorce code reading
+
+### object
+### core object
+### engine
+### smart pointer
+### umg 
+### slate
+### thread
+### etc...
+
+
+## 2. project reading
+### official project
+
+
+## 3. document reading
+
+## 4. book 大象无形
+
+
+
+## 5. bolg？
+
+## 6. practice
+### hot update
+### landscape paint
+### big world map load
+
+## 7. official course
+
+
+### 8.other
+## Gamplay ability system
+##pak hot update
+##
+
